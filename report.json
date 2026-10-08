@@ -1,0 +1,13 @@
+{
+  "url_initial": "https://cybercor.org",
+  "url_final": "https://cybercor.org/",
+  "status_code": 200,
+  "titlu": "CYBERCOR",
+  "ip_address": "172.67.211.96",
+  "redirectionari": "301 -> http://cybercor.org/",
+  "scor_securitate": "3/5",
+  "zile_certificat_ssl": 56,
+  "legaturi_interne": 0,
+  "legaturi_externe": 0,
+  "cai_interzise": []
+}
